@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rahul-mn
-- 👀 I’m interested in devops or python
+- 👋 Hi there, I am Rahul
 - 🌱 I’m currently learning django and automation techniques.
-- 💞️ I’m looking to collaborate on automation of manual work.
+- 💞️ I’m looking to collaborate on automation of manual work...
 - 📫 How to reach me ...
 
 <!---
