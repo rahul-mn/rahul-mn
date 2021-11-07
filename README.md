@@ -1,10 +1,14 @@
-Hi there, I am Rahul 👋
+<h1>Hi there, I am Rahul 👋</h1>
 
-I’m currently learning django and automation techniques.
 
-I’m looking to collaborate on automation of manual work...
 
-How to reach me ...
+ <ul>
+  <li>
+I’m currently learning django and automation techniques.</li>
+  <li>
+I’m looking to collaborate on automation of manual work...</li>
+  <li>How to reach me ...</li>
+</ul> 
 
 <!---
 rahul-mn/rahul-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
