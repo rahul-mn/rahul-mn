@@ -4,7 +4,7 @@
 
  <ul>
   <li>
-I’m currently learning django and automation techniques.</li>
+I’m currently learning python and automation techniques...</li>
   <li>
 I’m looking to collaborate on automation of manual work...</li>
   <li>How to reach me ...</li>
