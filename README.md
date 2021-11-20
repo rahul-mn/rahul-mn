@@ -4,10 +4,10 @@
 
  <ul>
   <li>
-I’m currently learning python and automation techniques...</li>
+I’m currently learning python and more automation techniques...</li>
   <li>
 I’m looking to collaborate on automation of manual work...</li>
-  <li>How to reach me ...</li>
+ <li><a href="mailto: meenarahul67@gmail.com">How to reach me ...</a></li>
 </ul> 
 
 <!---
