@@ -7,8 +7,17 @@
 I’m currently learning python and more automation techniques...</li>
   <li>
 I’m looking to collaborate on automation of manual work...</li>
- <li><a href="mailto: meenarahul67@gmail.com">How to reach me ...</a></li>
 </ul> 
+
+<!-- CONTACT -->
+## Contact
+
+Rahul Meena - [@linkedin](https://www.linkedin.com/in/rahul-m-0ba16487/) - meenarahul67@gmail.com
+
+Terraform Project Link: [https://github.com/rahul-mn/Terraform-s3-lambda-sns](https://github.com/rahul-mn/Terraform-s3-lambda-sns)
+CI/CD Project Link: [https://github.com/rahul-mn/django-jenkins-docker-k8s-files](https://github.com/rahul-mn/django-jenkins-docker-k8s-files)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!---
 rahul-mn/rahul-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
