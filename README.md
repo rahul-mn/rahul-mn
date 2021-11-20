@@ -13,13 +13,15 @@ I’m looking to collaborate on automation of manual work...</li>
 ## Contact
 
 Rahul Meena - [@linkedin](https://www.linkedin.com/in/rahul-m-0ba16487/) - meenarahul67@gmail.com
-#<ul>
-#  <li>
-#Terraform Project Link: [https://github.com/rahul-mn/Terraform-s3-lambda-sns](https://github.com/rahul-mn/Terraform-s3-lambda-sns)
-#</li>
-#  <li>
-#CI/CD Project Link: [https://github.com/rahul-mn/django-jenkins-docker-k8s-files](https://github.com/rahul-mn/django-jenkins-docker-k8s-files)
-#</ul> 
+<!--
+<ul>
+  <li>
+Terraform Project Link: [https://github.com/rahul-mn/Terraform-s3-lambda-sns](https://github.com/rahul-mn/Terraform-s3-lambda-sns)
+</li>
+  <li>
+CI/CD Project Link: [https://github.com/rahul-mn/django-jenkins-docker-k8s-files](https://github.com/rahul-mn/django-jenkins-docker-k8s-files)
+</ul> 
+-->
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!---
