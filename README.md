@@ -4,9 +4,9 @@
 
  <ul>
   <li>
-I’m currently learning python and more automation techniques...</li>
+I’m currently learning Golang and more automation stuff</li>
   <li>
-I’m looking to collaborate on automation of manual work...</li>
+Lets collaborate to automate the manual work...</li>
 </ul> 
 
 <!-- CONTACT -->
